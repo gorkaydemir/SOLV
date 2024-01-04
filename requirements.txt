@@ -1,0 +1,4 @@
+timm
+scikit-learn
+tensorboard
+scipy
