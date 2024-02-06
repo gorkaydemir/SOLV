@@ -50,3 +50,6 @@ torchrun --master_port=12345 --nproc_per_node=1 train.py \
     booktitle = {Advances in Neural Information Processing Systems},
     year      = {2023}}
 ```
+
+## Acknowledgments
+I would like to thank [Merve Rabia Barin](https://github.com/mrabiabrn) for validating and reproducing the results using this repository.
