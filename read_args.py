@@ -3,11 +3,6 @@ import argparse
 
 import torch
 
-# hpc: {73y59kPu.M,F,Tj (OLD)
-# hpc: qKMj\2HtK"XnE:[4 (OLD)
-
-# hpc: T3WqohKgGkDr18w
-# git: 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
 
 def set_remaining_args(args):
     args.gpus = torch.cuda.device_count()
